@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>User List</title>
+</head>
+<body>
+  <h3 style='color:purple' align='center'>Here is LIST of the USERS</h3>
+  <h4 style='color:lightgreen' align='center'>Basically this section is completely for listing of users or customers. Here you can get the information about the Users. So if you want any kind of information about the usres details you can visit this section and go through accordingly. Thanks </h4>
+    <h1 style='color:green'>User List</h1>
+    <table border="1">
+        <tr style='color:red'>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+        {% for user in users %}
+        <tr>
+            <td>{{ user.id }}</td>
+            <td>{{ user.name }}</td>
+            <td>{{ user.email }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

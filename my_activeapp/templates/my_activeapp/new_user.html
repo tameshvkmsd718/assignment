@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title style='color:green'>New User</title>
+</head>
+<body>
+  <h3 style='color:brown' align='center'>This is for NEW USERS</h3>
+  <br>
+  <h4 style='color:pink' align='center'>In this section you will have get the information about the NEW USERS. If you want to get the information abouth the NEW USERS you can visit this section and collect the info about the new users. Thank you!!!</h4>
+    <h1 style='color:blue'>Add New User</h1>
+    <form method="post">
+        {% csrf_token %}
+        <label>Name:</label><br>
+        <input type="text" name="name" required><br>
+        <label>Email:</label><br>
+        <input type="email" name="email" required><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
