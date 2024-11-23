@@ -11,11 +11,11 @@ In Version Control System, I used GitHub. Firstly I created the account on githu
 Performed the operation on that. 
 Created the New Repository with the name of assignment and used the main branch. 
 Performed the pull request and commit changes by using the git init, git add . etc such type of commands. 
-These are the commands which I implemented to makingi this project. 
-Specified the SQL queries on this project. 
+These are the commands which I implemented to making this project. 
+Specified the SQL queries for this project. 
 I have used the SQL queries:- 
 1) For inserting the data (sample data) into the "users" table:- queries->   INSERT INTO users() values();
 2) Retrieve all users from the "users" table:- queries-> SELECT * FROM users;
 3) Retrieve a specific user by their ID:- queries-> SELECT * FROM users WHERE id= id values;
 
-These are the a brief explanation of creating this project. Thank you!
+These are a brief explanation of creating this project. Thank you!
