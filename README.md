@@ -7,7 +7,7 @@ In this project I used the MySQL database. Firstly I install the database and se
 I used the database schema (MySQL WB) and performed the operation of SQL Database.
 Performed the some sample data.
 I used and install all the dependencies and setup requirements and I implemented all that things in my project. 
-In Version Control System, I used GitHub. Firstly I created the account on github. After that login in it. 
+In Version Control System, I used GitHub. Firstly I created the account on github. After that loged in. 
 Performed the operation on that. 
 Created the New Repository with the name of assignment and used the main branch. 
 Performed the pull request and commit changes by using the git init, git add . etc such type of commands. 
