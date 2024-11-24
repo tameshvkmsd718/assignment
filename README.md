@@ -1,6 +1,6 @@
 # assignment
 This is Python with Django framework Project.
-To creating this project these are the process and functionalities which I used on this project:-
+To create this project these are the process and functionalities which I used on this project:-
 First of all I installed the Python along with django in my machine (system).
 After that I set up all the dependencies which are used in this project.
 In this project I used the MySQL database. Firstly I install the database and set all the requirement things and set the path. 
